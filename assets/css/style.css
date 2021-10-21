@@ -1,0 +1,14 @@
+.navbar-dark .navbar-nav .nav-link {
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.navbar-dark .navbar-brand {
+    color: #fff;
+    font-size: 28px;
+    font-weight: bold;
+}
+.signup-form{
+    border: 1px solid gray;
+    padding: 20px;
+}
